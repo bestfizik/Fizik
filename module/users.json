@@ -1,0 +1,37 @@
+[
+    {
+        "id": "9d90c802-8a27-4241-a3bd-a3e0b256f9b6",
+        "username": "a",
+        "email": "s",
+        "role": "user",
+        "password": "$2b$08$E6o2Rmkcahl.c90rLOYldeLQG8ykHJbxhBcOEmKVo8R/zdotgDeK."
+    },
+    {
+        "id": "907ddcc8-82ec-440c-a8e0-c3e42a554c8e",
+        "username": "dss",
+        "email": "asdfg",
+        "role": "user",
+        "password": "$2b$08$CXc0az2Srq3gLom9O6t8FuCmrvT7IA/ylBHIULAyyOaQSSk0xhsVu"
+    },
+    {
+        "id": "44238966-6faf-487d-83c8-a36be6a6a0e0",
+        "username": "da",
+        "email": "asdfaag",
+        "role": "user",
+        "password": "$2b$08$4GjYwMUEzl7XXMhKR/CX7uVfEDGJJ4GfYtQ1dsOJSpMX4Bf9eh44q"
+    },
+    {
+        "id": "5498b673-ab4e-4a05-982b-f26986f042fa",
+        "username": "bestfizik",
+        "email": "fizik@gmail.com",
+        "role": "user",
+        "password": "$2b$08$KZfoQyQwx9eF5cR04hBpKeEDjJEIHPbWjW4mYNxE/6f7kQnOYDQdi"
+    },
+    {
+        "id": "ec11b03d-7d1e-4e57-9aee-aa2f0bab86c5",
+        "username": "salom",
+        "email": "alik@gmail.com",
+        "role": "user",
+        "password": "$2b$08$ZiAVx85F2MaxxQhUcFG8uugjF4cY.76roj8t3lDIEPrOwaiEiI5HS"
+    }
+]
