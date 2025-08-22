@@ -10,8 +10,8 @@ app.use(cors())
 app.use(bodyParser.json())
 const PORT=process.env.PORT || 3000
 
-app.get("/", (req,res)=>{
-console.log("Fizik")
+app.get("/", (req, res) => {
+    res.send("Fizik")
 })
 
 
