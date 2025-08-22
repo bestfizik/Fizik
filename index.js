@@ -11,7 +11,7 @@ app.use(bodyParser.json())
 const PORT=process.env.PORT || 3000
 
 app.get("/", (req, res) => {
-    res.send("Fizik")
+    res.send("Fizikdan salom")
 })
 
 
